@@ -1,12 +1,6 @@
 #include <stdio.h>
 #include "main.h"
 
-/**
- * Function that print all natural number from n to 98
- * followed by \n
- *
- * Return: 0(Always success)
- */
 void
 print_to_98(int n)
 {
