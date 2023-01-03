@@ -1,4 +1,4 @@
-**
+/**
  * _strspn - Returns the number of bytes in the initial segment
  * of s which consist only of bytes from accept
  *
@@ -6,7 +6,8 @@
  * @accept: characters to look for
  *
  * Return: number of bytes that matched at start of string
- */
+ **/
+
 unsigned int _strspn(char *s, char *accept)
 {
 	unsigned int sum = 0;
