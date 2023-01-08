@@ -1,1 +1,1 @@
-This is the beginning of static libraries in c
+0x09 static library
