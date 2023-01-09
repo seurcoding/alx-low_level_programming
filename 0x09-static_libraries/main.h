@@ -1,10 +1,11 @@
 #ifndef MAIN_H
 #define MAIN_H
-/**
- * FILE: main.h
- * Auth: Joshua Mbise
- * Descp: Header files conain prototype for all function
- * used to create c static lib
+
+/*
+ *  * File: main.h
+ *   * Auth: Mbise Joshua
+ *    * Desc: Header file containing the prototypes of all functions
+ *     *       included in the static library libholberton.a.
  */
 int _putchar(char c);
 int _islower(int c);
@@ -27,5 +28,4 @@ unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 
-
-#endif 
+#endif
